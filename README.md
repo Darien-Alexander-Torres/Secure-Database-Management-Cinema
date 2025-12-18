@@ -3,6 +3,7 @@
 Este repositorio contiene un sistema integral para la gestión de un cine, que abarca desde la cartelera pública y la venta de boletos hasta un panel administrativo para el control de inventario y métricas de ventas.
 
 Este es un proyecto desarrollado en colaboración, diseñado para implementar soluciones robustas de software que integren una interfaz de usuario dinámica con una arquitectura de base de datos segura.
+
 🚀 Características Principales
 
     Cartelera Dinámica: Sistema de visualización de películas con filtrado por fecha y horarios en tiempo real.
